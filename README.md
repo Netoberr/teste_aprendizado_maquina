@@ -1,1 +1,1 @@
-# teste_aprendizado_maquina
+teste de aprendizado de maquina, primeira aula
